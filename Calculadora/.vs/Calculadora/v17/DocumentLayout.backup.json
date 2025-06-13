@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\18094\\OneDrive - Instituto Tecnol\u00F3gico de Las Am\u00E9ricas (ITLA)\\Programaci\u00F3n II\\Calculadora\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{86654718-D11B-4F9A-8E4D-361051151E8B}|Calculadora\\Calculadora.csproj|c:\\users\\18094\\onedrive - instituto tecnol\u00F3gico de las am\u00E9ricas (itla)\\programaci\u00F3n ii\\calculadora\\calculadora\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86654718-D11B-4F9A-8E4D-361051151E8B}|Calculadora\\Calculadora.csproj|solutionrelative:calculadora\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86654718-D11B-4F9A-8E4D-361051151E8B}|Calculadora\\Calculadora.csproj|c:\\users\\18094\\onedrive - instituto tecnol\u00F3gico de las am\u00E9ricas (itla)\\programaci\u00F3n ii\\calculadora\\calculadora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{86654718-D11B-4F9A-8E4D-361051151E8B}|Calculadora\\Calculadora.csproj|solutionrelative:calculadora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86654718-D11B-4F9A-8E4D-361051151E8B}|Calculadora\\Calculadora.csproj|c:\\users\\18094\\onedrive - instituto tecnol\u00F3gico de las am\u00E9ricas (itla)\\programaci\u00F3n ii\\calculadora\\calculadora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86654718-D11B-4F9A-8E4D-361051151E8B}|Calculadora\\Calculadora.csproj|solutionrelative:calculadora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\18094\\OneDrive - Instituto Tecnol\u00F3gico de Las Am\u00E9ricas (ITLA)\\Programaci\u00F3n II\\Calculadora\\Calculadora\\Form1.cs",
+              "RelativeDocumentMoniker": "Calculadora\\Form1.cs",
+              "ToolTip": "C:\\Users\\18094\\OneDrive - Instituto Tecnol\u00F3gico de Las Am\u00E9ricas (ITLA)\\Programaci\u00F3n II\\Calculadora\\Calculadora\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Calculadora\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T15:01:46.798Z",
+              "IsPinned": true,
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\18094\\OneDrive - Instituto Tecnol\u00F3gico de Las Am\u00E9ricas (ITLA)\\Programaci\u00F3n II\\Calculadora\\Calculadora\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Calculadora\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\18094\\OneDrive - Instituto Tecnol\u00F3gico de Las Am\u00E9ricas (ITLA)\\Programaci\u00F3n II\\Calculadora\\Calculadora\\Form1.Designer.cs",
+              "RelativeToolTip": "Calculadora\\Form1.Designer.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAowE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T16:20:12.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\18094\\OneDrive - Instituto Tecnol\u00F3gico de Las Am\u00E9ricas (ITLA)\\Programaci\u00F3n II\\Calculadora\\Calculadora\\Form1.cs",
+              "RelativeDocumentMoniker": "Calculadora\\Form1.cs",
+              "ToolTip": "C:\\Users\\18094\\OneDrive - Instituto Tecnol\u00F3gico de Las Am\u00E9ricas (ITLA)\\Programaci\u00F3n II\\Calculadora\\Calculadora\\Form1.cs",
+              "RelativeToolTip": "Calculadora\\Form1.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAADwv0AAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T16:29:13.549Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
