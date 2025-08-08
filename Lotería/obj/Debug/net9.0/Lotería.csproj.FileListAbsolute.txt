@@ -1,0 +1,15 @@
+C:\Users\18094\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Programación II\Lotería\Lotería\bin\Debug\net9.0\Lotería.exe
+C:\Users\18094\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Programación II\Lotería\Lotería\bin\Debug\net9.0\Lotería.deps.json
+C:\Users\18094\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Programación II\Lotería\Lotería\bin\Debug\net9.0\Lotería.runtimeconfig.json
+C:\Users\18094\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Programación II\Lotería\Lotería\bin\Debug\net9.0\Lotería.dll
+C:\Users\18094\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Programación II\Lotería\Lotería\bin\Debug\net9.0\Lotería.pdb
+C:\Users\18094\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Programación II\Lotería\Lotería\obj\Debug\net9.0\Lotería.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\18094\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Programación II\Lotería\Lotería\obj\Debug\net9.0\Lotería.AssemblyInfoInputs.cache
+C:\Users\18094\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Programación II\Lotería\Lotería\obj\Debug\net9.0\Lotería.AssemblyInfo.cs
+C:\Users\18094\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Programación II\Lotería\Lotería\obj\Debug\net9.0\Lotería.csproj.CoreCompileInputs.cache
+C:\Users\18094\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Programación II\Lotería\Lotería\obj\Debug\net9.0\Lotería.sourcelink.json
+C:\Users\18094\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Programación II\Lotería\Lotería\obj\Debug\net9.0\Lotería.dll
+C:\Users\18094\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Programación II\Lotería\Lotería\obj\Debug\net9.0\refint\Lotería.dll
+C:\Users\18094\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Programación II\Lotería\Lotería\obj\Debug\net9.0\Lotería.pdb
+C:\Users\18094\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Programación II\Lotería\Lotería\obj\Debug\net9.0\Lotería.genruntimeconfig.cache
+C:\Users\18094\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Programación II\Lotería\Lotería\obj\Debug\net9.0\ref\Lotería.dll
