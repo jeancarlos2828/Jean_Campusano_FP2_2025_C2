@@ -1,0 +1,15 @@
+C:\Users\18094\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Programación II\Calculadora 2\Calculadora 2\bin\Debug\net9.0\Calculadora 2.exe
+C:\Users\18094\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Programación II\Calculadora 2\Calculadora 2\bin\Debug\net9.0\Calculadora 2.deps.json
+C:\Users\18094\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Programación II\Calculadora 2\Calculadora 2\bin\Debug\net9.0\Calculadora 2.runtimeconfig.json
+C:\Users\18094\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Programación II\Calculadora 2\Calculadora 2\bin\Debug\net9.0\Calculadora 2.dll
+C:\Users\18094\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Programación II\Calculadora 2\Calculadora 2\bin\Debug\net9.0\Calculadora 2.pdb
+C:\Users\18094\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Programación II\Calculadora 2\Calculadora 2\obj\Debug\net9.0\Calculadora 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\18094\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Programación II\Calculadora 2\Calculadora 2\obj\Debug\net9.0\Calculadora 2.AssemblyInfoInputs.cache
+C:\Users\18094\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Programación II\Calculadora 2\Calculadora 2\obj\Debug\net9.0\Calculadora 2.AssemblyInfo.cs
+C:\Users\18094\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Programación II\Calculadora 2\Calculadora 2\obj\Debug\net9.0\Calculadora 2.csproj.CoreCompileInputs.cache
+C:\Users\18094\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Programación II\Calculadora 2\Calculadora 2\obj\Debug\net9.0\Calculadora 2.sourcelink.json
+C:\Users\18094\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Programación II\Calculadora 2\Calculadora 2\obj\Debug\net9.0\Calculadora 2.dll
+C:\Users\18094\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Programación II\Calculadora 2\Calculadora 2\obj\Debug\net9.0\refint\Calculadora 2.dll
+C:\Users\18094\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Programación II\Calculadora 2\Calculadora 2\obj\Debug\net9.0\Calculadora 2.pdb
+C:\Users\18094\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Programación II\Calculadora 2\Calculadora 2\obj\Debug\net9.0\Calculadora 2.genruntimeconfig.cache
+C:\Users\18094\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Programación II\Calculadora 2\Calculadora 2\obj\Debug\net9.0\ref\Calculadora 2.dll
